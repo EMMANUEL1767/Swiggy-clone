@@ -11,6 +11,26 @@
 		3A1AF4A72D15E19B00542186 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A1AF4A62D15E19B00542186 /* ContentView.swift */; };
 		3A1AF4A92D15E19C00542186 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3A1AF4A82D15E19C00542186 /* Assets.xcassets */; };
 		3A1AF4AC2D15E19C00542186 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3A1AF4AB2D15E19C00542186 /* Preview Assets.xcassets */; };
+		3A1AF4B62D15E30600542186 /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A1AF4B52D15E30600542186 /* MainView.swift */; };
+		3A1AF4B82D15E31900542186 /* FoodTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A1AF4B72D15E31900542186 /* FoodTabView.swift */; };
+		3A1AF4BA2D15E36B00542186 /* DummyView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A1AF4B92D15E36B00542186 /* DummyView.swift */; };
+		3A1AF4BD2D16863A00542186 /* SearchBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A1AF4BC2D16863A00542186 /* SearchBar.swift */; };
+		3A1AF4BF2D16865F00542186 /* RestaurantThumbnailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A1AF4BE2D16865F00542186 /* RestaurantThumbnailView.swift */; };
+		3A1AF4C12D16868800542186 /* HighlightFeatureItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A1AF4C02D16868800542186 /* HighlightFeatureItem.swift */; };
+		3A1AF4C32D1686C500542186 /* PromotionalBanner.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A1AF4C22D1686C500542186 /* PromotionalBanner.swift */; };
+		3A1AF4C62D16872E00542186 /* Restaurant.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3A1AF4C52D16872E00542186 /* Restaurant.swift */; };
+		3ABB94BF2D16966D000D6142 /* DistanceCalculator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3ABB94BE2D16966D000D6142 /* DistanceCalculator.swift */; };
+		3ABB94C12D169CD6000D6142 /* WavyShape.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3ABB94C02D169CD6000D6142 /* WavyShape.swift */; };
+		3ABB94C32D16A457000D6142 /* Tabs+Enum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3ABB94C22D16A457000D6142 /* Tabs+Enum.swift */; };
+		3ABB94C62D16A89D000D6142 /* Restaurants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3ABB94C52D16A89D000D6142 /* Restaurants.swift */; };
+		3ABB94C82D16A904000D6142 /* RestaurantRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3ABB94C72D16A904000D6142 /* RestaurantRow.swift */; };
+		3ABB94CA2D16A9B1000D6142 /* QuickPickButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3ABB94C92D16A9B1000D6142 /* QuickPickButton.swift */; };
+		3ABB94CC2D16A9E6000D6142 /* LocationPicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3ABB94CB2D16A9E6000D6142 /* LocationPicker.swift */; };
+		3ABB94CE2D16AA2C000D6142 /* NavigationAppBarWithSearch.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3ABB94CD2D16AA2C000D6142 /* NavigationAppBarWithSearch.swift */; };
+		3ABB94D02D16B485000D6142 /* SectionTitle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3ABB94CF2D16B485000D6142 /* SectionTitle.swift */; };
+		3ABB94D22D16B500000D6142 /* CashbackBanner.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3ABB94D12D16B500000D6142 /* CashbackBanner.swift */; };
+		3ABB94D42D16B550000D6142 /* RefreshControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3ABB94D32D16B550000D6142 /* RefreshControl.swift */; };
+		3ABB94D62D16CF22000D6142 /* Color+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3ABB94D52D16CF22000D6142 /* Color+Extension.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +39,26 @@
 		3A1AF4A62D15E19B00542186 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		3A1AF4A82D15E19C00542186 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3A1AF4AB2D15E19C00542186 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		3A1AF4B52D15E30600542186 /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
+		3A1AF4B72D15E31900542186 /* FoodTabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FoodTabView.swift; sourceTree = "<group>"; };
+		3A1AF4B92D15E36B00542186 /* DummyView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DummyView.swift; sourceTree = "<group>"; };
+		3A1AF4BC2D16863A00542186 /* SearchBar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchBar.swift; sourceTree = "<group>"; };
+		3A1AF4BE2D16865F00542186 /* RestaurantThumbnailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RestaurantThumbnailView.swift; sourceTree = "<group>"; };
+		3A1AF4C02D16868800542186 /* HighlightFeatureItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HighlightFeatureItem.swift; sourceTree = "<group>"; };
+		3A1AF4C22D1686C500542186 /* PromotionalBanner.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PromotionalBanner.swift; sourceTree = "<group>"; };
+		3A1AF4C52D16872E00542186 /* Restaurant.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Restaurant.swift; sourceTree = "<group>"; };
+		3ABB94BE2D16966D000D6142 /* DistanceCalculator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DistanceCalculator.swift; sourceTree = "<group>"; };
+		3ABB94C02D169CD6000D6142 /* WavyShape.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WavyShape.swift; sourceTree = "<group>"; };
+		3ABB94C22D16A457000D6142 /* Tabs+Enum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Tabs+Enum.swift"; sourceTree = "<group>"; };
+		3ABB94C52D16A89D000D6142 /* Restaurants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Restaurants.swift; sourceTree = "<group>"; };
+		3ABB94C72D16A904000D6142 /* RestaurantRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RestaurantRow.swift; sourceTree = "<group>"; };
+		3ABB94C92D16A9B1000D6142 /* QuickPickButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuickPickButton.swift; sourceTree = "<group>"; };
+		3ABB94CB2D16A9E6000D6142 /* LocationPicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationPicker.swift; sourceTree = "<group>"; };
+		3ABB94CD2D16AA2C000D6142 /* NavigationAppBarWithSearch.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationAppBarWithSearch.swift; sourceTree = "<group>"; };
+		3ABB94CF2D16B485000D6142 /* SectionTitle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SectionTitle.swift; sourceTree = "<group>"; };
+		3ABB94D12D16B500000D6142 /* CashbackBanner.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CashbackBanner.swift; sourceTree = "<group>"; };
+		3ABB94D32D16B550000D6142 /* RefreshControl.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RefreshControl.swift; sourceTree = "<group>"; };
+		3ABB94D52D16CF22000D6142 /* Color+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Color+Extension.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,6 +91,10 @@
 		3A1AF4A32D15E19B00542186 /* Swiggy */ = {
 			isa = PBXGroup;
 			children = (
+				3ABB94C42D16A88E000D6142 /* data */,
+				3ABB94BD2D169656000D6142 /* utils */,
+				3A1AF4C42D16871300542186 /* models */,
+				3A1AF4B42D15E2E600542186 /* views */,
 				3A1AF4A42D15E19B00542186 /* SwiggyApp.swift */,
 				3A1AF4A62D15E19B00542186 /* ContentView.swift */,
 				3A1AF4A82D15E19C00542186 /* Assets.xcassets */,
@@ -65,6 +109,62 @@
 				3A1AF4AB2D15E19C00542186 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		3A1AF4B42D15E2E600542186 /* views */ = {
+			isa = PBXGroup;
+			children = (
+				3A1AF4BB2D167CCC00542186 /* components */,
+				3A1AF4B52D15E30600542186 /* MainView.swift */,
+				3A1AF4B72D15E31900542186 /* FoodTabView.swift */,
+				3A1AF4B92D15E36B00542186 /* DummyView.swift */,
+			);
+			path = views;
+			sourceTree = "<group>";
+		};
+		3A1AF4BB2D167CCC00542186 /* components */ = {
+			isa = PBXGroup;
+			children = (
+				3A1AF4BC2D16863A00542186 /* SearchBar.swift */,
+				3A1AF4BE2D16865F00542186 /* RestaurantThumbnailView.swift */,
+				3A1AF4C02D16868800542186 /* HighlightFeatureItem.swift */,
+				3A1AF4C22D1686C500542186 /* PromotionalBanner.swift */,
+				3ABB94C02D169CD6000D6142 /* WavyShape.swift */,
+				3ABB94C72D16A904000D6142 /* RestaurantRow.swift */,
+				3ABB94C92D16A9B1000D6142 /* QuickPickButton.swift */,
+				3ABB94CB2D16A9E6000D6142 /* LocationPicker.swift */,
+				3ABB94CD2D16AA2C000D6142 /* NavigationAppBarWithSearch.swift */,
+				3ABB94CF2D16B485000D6142 /* SectionTitle.swift */,
+				3ABB94D12D16B500000D6142 /* CashbackBanner.swift */,
+				3ABB94D32D16B550000D6142 /* RefreshControl.swift */,
+			);
+			path = components;
+			sourceTree = "<group>";
+		};
+		3A1AF4C42D16871300542186 /* models */ = {
+			isa = PBXGroup;
+			children = (
+				3A1AF4C52D16872E00542186 /* Restaurant.swift */,
+				3ABB94C22D16A457000D6142 /* Tabs+Enum.swift */,
+			);
+			path = models;
+			sourceTree = "<group>";
+		};
+		3ABB94BD2D169656000D6142 /* utils */ = {
+			isa = PBXGroup;
+			children = (
+				3ABB94BE2D16966D000D6142 /* DistanceCalculator.swift */,
+				3ABB94D52D16CF22000D6142 /* Color+Extension.swift */,
+			);
+			path = utils;
+			sourceTree = "<group>";
+		};
+		3ABB94C42D16A88E000D6142 /* data */ = {
+			isa = PBXGroup;
+			children = (
+				3ABB94C52D16A89D000D6142 /* Restaurants.swift */,
+			);
+			path = data;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -137,8 +237,28 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3ABB94CC2D16A9E6000D6142 /* LocationPicker.swift in Sources */,
+				3ABB94D22D16B500000D6142 /* CashbackBanner.swift in Sources */,
+				3ABB94CA2D16A9B1000D6142 /* QuickPickButton.swift in Sources */,
+				3A1AF4C62D16872E00542186 /* Restaurant.swift in Sources */,
+				3A1AF4C12D16868800542186 /* HighlightFeatureItem.swift in Sources */,
+				3A1AF4BA2D15E36B00542186 /* DummyView.swift in Sources */,
+				3A1AF4BF2D16865F00542186 /* RestaurantThumbnailView.swift in Sources */,
+				3ABB94D02D16B485000D6142 /* SectionTitle.swift in Sources */,
 				3A1AF4A72D15E19B00542186 /* ContentView.swift in Sources */,
+				3ABB94D62D16CF22000D6142 /* Color+Extension.swift in Sources */,
+				3ABB94D42D16B550000D6142 /* RefreshControl.swift in Sources */,
+				3ABB94BF2D16966D000D6142 /* DistanceCalculator.swift in Sources */,
+				3ABB94C62D16A89D000D6142 /* Restaurants.swift in Sources */,
+				3ABB94C32D16A457000D6142 /* Tabs+Enum.swift in Sources */,
+				3ABB94C12D169CD6000D6142 /* WavyShape.swift in Sources */,
+				3ABB94CE2D16AA2C000D6142 /* NavigationAppBarWithSearch.swift in Sources */,
+				3A1AF4B62D15E30600542186 /* MainView.swift in Sources */,
+				3ABB94C82D16A904000D6142 /* RestaurantRow.swift in Sources */,
+				3A1AF4B82D15E31900542186 /* FoodTabView.swift in Sources */,
 				3A1AF4A52D15E19B00542186 /* SwiggyApp.swift in Sources */,
+				3A1AF4BD2D16863A00542186 /* SearchBar.swift in Sources */,
+				3A1AF4C32D1686C500542186 /* PromotionalBanner.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

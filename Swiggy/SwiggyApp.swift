@@ -9,6 +9,9 @@ import SwiftUI
 
 @main
 struct SwiggyApp: App {
+    init() {
+        UITabBar.appearance().backgroundColor = UIColor.white
+    }
     var body: some Scene {
         WindowGroup {
             ContentView()
